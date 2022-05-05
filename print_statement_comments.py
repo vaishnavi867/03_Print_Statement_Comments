@@ -1,6 +1,6 @@
 """
-Name: HD
-Date & Day: 4th May 2022 , Wednesday
+Name: Vaishnavi
+Date & Day: 5th May 2022 , Thursday
 Time:3:30-4:30PM
 File Description: print statement and types of comment
 """
@@ -28,9 +28,7 @@ File Description: print statement and types of comment
 # programming 
 # course''')
 
-
 # print('''python programming course''')
-
 # print('''pyth"on program'ming course''')
 
 
@@ -56,7 +54,6 @@ File Description: print statement and types of comment
 # print('''hello world''')
 # print("""hello world""")
 
-
 """ To print  hello wor'ld   """
 # print('hello wor\'ld')
 # print("hello wor'ld")
@@ -68,7 +65,6 @@ File Description: print statement and types of comment
 # print("hello wor\"ld")
 # print('''hello wor"ld''')
 # print("""hello wor"ld""")
-
 
 """ To print    print(hello python)   """
 # print('print(hello python)')
